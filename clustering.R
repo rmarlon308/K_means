@@ -1,6 +1,6 @@
 library("readxl")
 
-data = read_excel("/home/marlon/mainfolder/marlon/USFQ/DataMining/8_K_Means/P8/dataset_clustering(SEC).xlsx")
+data = read_excel("/home/marlon/mainfolder/marlon/USFQ/DataMining/8_K_Means/P8/dataset.xlsx")
 
 #Data treatment
 data = as.data.frame(lapply(data, as.numeric))
