@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1606493205434.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "31C50A40",
+    "lastKnownWriteTime" : 1606530185,
+    "last_content_update" : 1606530185007,
+    "path" : "~/mainfolder/marlon/USFQ/DataMining/8_K_Means/P8/clustering.R",
+    "project_path" : "clustering.R",
+    "properties" : {
+        "cursorPosition" : "48,0",
+        "scrollLine" : "34",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
